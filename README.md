@@ -16,3 +16,6 @@ Execution step:
 
     XX means the number of processors you want to run for this program 
     
+Execution on back-end nodes:
+
+1. Enter "code.pbs" and code will be run on the back-end cirrus
