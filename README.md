@@ -1,6 +1,6 @@
 # PDP-coursework
 
-This code is completely packaged and several files are included.
+Exam Number: B117955
 
 The c file "code.c" contains the main function and functions for suqirrel actors and land cell actors. 
 
