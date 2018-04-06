@@ -14,7 +14,8 @@ Execution step:
 
 2. Enter "mpirun -np XX ./code" in command line.   
 
-    XX means the number of processors you want to run for this program 
+    "XX" means the number of processors you want to run for this program
+     in this program,  217 is recommended to ensure that maximum 200 squirrels are produced in the processpool
     
 Execution on back-end nodes:
 
